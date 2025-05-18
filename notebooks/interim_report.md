@@ -72,3 +72,13 @@ Completes Task 3:
 - Performed one-way ANOVA on GHI, reporting p-values.
 - Summarized key observations in markdown.
 - Added bonus bar chart ranking countries by average GHI.
+
+# Bonus Task: Interactive Dashboard
+- **Progress**:
+  - Developed a Streamlit dashboard in `app/main.py` with:
+    - A country selector to compare Benin, Sierra Leone, and Togo.
+    - A boxplot of GHI distribution by country.
+    - A table of top regions by average GHI.
+  - Deployed the dashboard to Streamlit Community Cloud.
+- **Public URL**: [Insert your Streamlit URL here]
+- **Note**: This submission is late due to completing the bonus task. I apologize for the delay and appreciate your understanding.
