@@ -66,3 +66,9 @@ Repository
 
 GitHub URL: https://github.com/Trilord52/solar-challenge-week1
 
+Completes Task 3:
+- Created `notebooks/compare_countries.ipynb`.
+- Compared GHI, DNI, DHI with boxplots and a summary table (mean, median, std).
+- Performed one-way ANOVA on GHI, reporting p-values.
+- Summarized key observations in markdown.
+- Added bonus bar chart ranking countries by average GHI.
